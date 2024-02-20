@@ -743,7 +743,7 @@ collection:
     links:
       - Notebook Preview
       - Dataset_CARE_3D_ZeroCostDL4Mic
-    version: 1.15.2
+    version: 1.15.3
     config:
       dl4miceverywhere:
         cuda_version: 11.8.0
